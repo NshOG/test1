@@ -2,4 +2,5 @@ a = 5
 c = 6
 b =6
 
-e = a+c+c
+e = (a+c+b) * 65
+print("Gurgen")
